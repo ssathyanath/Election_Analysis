@@ -9,7 +9,7 @@ The below is a summary of the election audit results
   1) Jefferson
   2) Denver
   3) Arapahoe
-The breakdown of votes and the percentages are shown in the below image
+ The breakdown of votes and the percentages are shown in the below image
 
 ![county_vote](https://github.com/ssathyanath/Election_Analysis/blob/master/Images/County_Votes.PNG)
 
@@ -18,11 +18,11 @@ The breakdown of votes and the percentages are shown in the below image
   1) Diana DeGette
   2) Raymon Anthony Doane
   3) Charles Casper Stockham
-  The breakdown of votes and percentages by candidate are shown in the below image
+The breakdown of votes and percentages by candidate are shown in the below image
   
  ![candidate_vote](https://github.com/ssathyanath/Election_Analysis/blob/master/Images/Candidate_Votes.PNG)
   
--**Diana DeGette** won the election with **73.8%** votes (272,892)
+- **Diana DeGette** won the election with **73.8%** votes (272,892)
 
 ## Election-Audit Summary: 
 The attached script can be modified in different ways and can be used to audit other elections.
