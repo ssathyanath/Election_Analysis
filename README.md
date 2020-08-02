@@ -8,7 +8,7 @@ The below is a summary of the election audit results
 - There were three counties in the election data
   1) Jefferson
   2) Denver
-  3) Arapahoe
+  3) Arapahoe  
  The breakdown of votes and the percentages are shown in the below image
 
 ![county_vote](https://github.com/ssathyanath/Election_Analysis/blob/master/Images/County_Votes.PNG)
@@ -17,7 +17,7 @@ The below is a summary of the election audit results
 - There were three candidates in the election
   1) Diana DeGette
   2) Raymon Anthony Doane
-  3) Charles Casper Stockham
+  3) Charles Casper Stockham  
 The breakdown of votes and percentages by candidate are shown in the below image
   
  ![candidate_vote](https://github.com/ssathyanath/Election_Analysis/blob/master/Images/Candidate_Votes.PNG)
