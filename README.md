@@ -10,7 +10,7 @@ The below is a summary of the election audit results
   2) Denver
   3) Arapahoe  
 
-The breakdown of votes and the percentages are shown in the below image
+The breakdown of votes and the percentages by county are shown in the below image
 
 ![county_vote](https://github.com/ssathyanath/Election_Analysis/blob/master/Images/County_Votes.PNG)
 
@@ -19,7 +19,7 @@ The breakdown of votes and the percentages are shown in the below image
   1) Diana DeGette
   2) Raymon Anthony Doane
   3) Charles Casper Stockham  
-  
+
 The breakdown of votes and percentages by candidate are shown in the below image
   
  ![candidate_vote](https://github.com/ssathyanath/Election_Analysis/blob/master/Images/Candidate_Votes.PNG)
